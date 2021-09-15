@@ -227,3 +227,229 @@ puts prints a string alone.
 
 ## In Python Language
 
+<b> 1) What are the key features of Python? </b>
+
+. Python is free and Open-source
+
+. Python is easy to learn due to its clear syntax and readability
+
+. Python is easy to interpret, making debugging easy
+
+<b> 2) What are Keywords in Python? </b>
+
+Keywords in Python are reserved words which are used as identifiers, function name or variable name. Egs: break, continue, while, etc. 
+
+<b> 3) What are Literals in Python and explain about different Literals? </b>
+
+Literals in Python refer to the data that is given in a variable or constant.
+
+String Literals: Enclosed with quotes.
+
+Numeric Literals: float, int and complex
+
+Boolean Literals: 1 and 0 to represent true or false
+
+Special Literals: Special literals are sued to classify fields that are not created. (none)
+
+<b> 4) What are functions in Python? </b>
+
+Functions are blocks that are used for reusability of codes.
+
+<b> 5) What is Python? </b>
+
+Python is a high-level, interpreted, interactive, and object-oriented scripting language. It uses English keywords frequently.
+
+<b> 6) What is an interpreted language? </b>
+
+Statements are esecuted line by line.
+
+<b> 7) What is the difference between lists and tuples? </b>
+
+Lists are mutuable whereas tuples are immutable. 
+
+Lists consume more memory compared to lists.
+
+<b> 8) What is dictionary in Python? </b>
+
+A Python dictionary is a collection of items with curly braces having key value pair.
+
+<b> 9) What are Python Modules? </b>
+
+Files containing Python codes.
+
+<b> 10) What is a classifier? </b>
+
+A classifier is used to predict the class of any data point.
+
+<b> 11) In Python how do you convert a string into lowercase? </b>
+
+string.lower()
+
+<b> 12) How do you get a list of all the keys in a dictionary? </b>
+
+dict.keys()
+
+<b> 13) How can you capitalize the first letter of a string? </b>
+
+capitalize() function
+
+<b> 14)  How can you insert an element at a given index in Python? </b>
+
+Python has an inbuilt function called the insert() function.
+
+<b> 15) How will you remove duplicate elements from a list? </b>
+
+Using the set() function and using the list() function to convert it back to a list.
+
+<b> 16) What is recursion and looping? </b>
+
+Recursion is a function calling itself one or more times in it body. Looping is executed until the condition gets satisfied. 
+
+<b> 17) Explain Python List Comprehension </b>
+
+List comprehensions are used for transforming one list into another list.
+
+<b> 18) What is the bytes() function? </b>
+
+Used to convert objects into bytes.
+
+<b> 19) What are the different types of operators in Python? </b>
+
+Arithmetic( Addition(+), Substraction(-), Multiplication(*), Division(/), Modulus(%) ), Relational ( <, >, <=, >=, ==, !=, ),
+Assignment ( =. +=, -=, /=, *=, %= ),
+Logical ( and, or not ), Membership, Identity, and Bitwise Operators
+
+<b> 20) What is __init__ in Python? </b>
+
+An object is created from a class and _init_ methodolgy is called to acess the class attributes.
+
+<b> 21) What is the difference between tuple and dictionary? </b>
+
+Dictionary is mutable while a tuple is not.
+
+<b> 22) What is pass in Python? </b>
+
+It is used when you do not want any command to execute but a statement is required.
+
+<b> 23) Define encapsulation in Python? </b>
+
+Encapsulation means binding the code and the data together.
+
+<b> 24) What is split() function used for? </b>
+
+Split fuction is used to split a string into shorter string using defined seperators.
+
+<b> 25) What is the type () in Python? </b>
+
+type() is a built-in method which either returns the type of the object or returns a new type object based on the arguments passed.
+
+<b>String:</b> A string value is a collection of one or more characters put in single, double or triple quotes.
+
+<b>List:</b> A list object is an ordered collection of one or more data items which can be of different types, put in square brackets. 
+
+<b>Set:</b> An unordered collection of unique objects enclosed in curly brackets
+
+<b>Frozen set:</b> They are like a set but immutable, which means we cannot modify their values once they are created.
+  
+## Data Science 
+
+<b> 1. What are the differences between supervised and unsupervised learning? </b>
+
+Supervised uses labelled data as input whereas Unsupervised data uses unlabelled data as input.
+
+<b> 2. How is logistic regression done? </b>
+
+Logistic regression measures the relationship between the dependent variable and one or more independent variables by the concept of probability.
+
+<b> 3. What is Pandas? </b>
+
+Pandas is one of the tools in Machine Learning which is used for data cleaning and analysis. It has features which are used for exploring, cleaning, transforming and visualizing from data.
+
+<b> 4. What are dataframes? </b>
+
+A Data frame is a two-dimensional data structure
+
+<b> 5. What is pandas groupby? </b>
+
+It allows you to split your data into separate groups to perform computations for better analysis.
+
+<b> 6. How can you avoid overfitting your model? </b>
+
+Use cross-validation techniques, such as k folds cross-validation
+
+<b> 7. Differentiate between univariate, bivariate, and multivariate analysis. </b>
+
+Univariate data contains only one variable. 
+
+Bivariate data involves two different variables. 
+
+Multivariate data involves three or more variables.
+
+<b> 8. What is Data Science? </b>
+
+It is a field of study that deals with programming, statistics and mathematics. 
+
+<b> 9. RMSE and MSE? </b>
+
+RMSE and MSE are two of the most common measures of accuracy for a linear regression model. 
+
+RMSE indicates the Root Mean Square Error. 
+
+MSE indicates the Mean Square Error.
+
+<b> 10. How can you select k for k-means? </b>
+
+We use the elbow method to select k for k-means clustering. The idea of the elbow method is to run k-means clustering on the data set where 'k' is the number of clusters.
+
+<b> 11. How to combine dataframes in pandas? </b>
+
+concat(), append() and join() functions in pandas.
+
+<b> 12. What kind of joins does pandas offer? </b>
+
+Pandas has a left join, inner join, right join and an outer join.
+
+<b> 13. How to access first five and last five data entries? </b>
+
+Use head to accesss the first five data entries. 
+
+Tail for last five data entries.
+
+<b> 14. Explain cross-validation. </b>
+
+Cross-validation is to term a data set to test the model in the training phase (i.e. validation data set) to limit problems like overfitting.
+
+<b> 15. What is the goal of A/B Testing? </b>
+
+It is a way to compare the two versions of a variable to find out which performs better in a controlled environment.
+
+<b> 16. What are the drawbacks of the linear model? </b>
+
+Overfitting
+
+It can't be used for count outcomes or binary outcomes
+
+<b> 17. What are eigenvalue and eigenvector? </b>
+
+Eigenvalues are the directions along which a particular linear transformation acts by flipping, compressing, or stretching.
+
+Eigenvectors are for understanding linear transformations. In data analysis, we usually calculate the eigenvectors for a correlation or covariance matrix. 
+
+<b> 18. What are the types of biases that can occur during sampling? </b>
+
+Selection bias
+
+Undercoverage bias
+
+Survivorship bias
+
+<b> 19. Random forest </b>
+
+A random forest is built up of a number of decision trees.
+
+If you split the data into different packages and make a decision tree in each of the different groups of data, the random forest brings all those trees together.
+
+<b> 20. What is a NumPy in Python? </b>
+
+
+NumPy can be used to perform a wide variety of mathematical operations on arrays.
