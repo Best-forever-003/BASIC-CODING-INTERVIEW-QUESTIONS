@@ -170,3 +170,60 @@ main() is an entry point.
 void main() returns nothing. No need of return statement.
 
 int main() needs a return statement.
+
+<b> 1) What is a built-in function in C? </b>
+
+Built-in functions are library functions. Egs: scanf, printf, etc.
+
+<b> 2) In C, What is the #line used for? </b>
+
+It is a preprocessor statement. Used to reset the line number.
+
+<b> 3) How can a string be converted to a number? </b>
+
+Use atoi function.
+
+<b> 4) How can a number be converted to a string? </b>
+
+Use sprintf function.
+
+<b> 5) What are the advantages of Macro over function? </b>
+
+Saves a lot of time.
+
+<b> 6) Specify different types of decision control statements? </b>
+
+.if-else
+
+.else-if
+
+.nested 
+
+.switch 
+
+<b> 7) What is call by reference in functions? </b>
+
+When the caller function makes a function call by passing the addresses of actual parameters being passed, then this is called call by reference.
+
+<b> 8) What is typedef? </b>
+
+typedef is a C keyword, used to simplify the existing type declaration syntax.
+
+<b> 9) Why is it usually a bad idea to use gets()? </b>
+
+There would be a restriction in the input range.
+
+<b> 10) Difference between gets() and scanf in C? </b>
+
+scanf() is used to read any data type in C. 
+
+gets() is used to read string input.
+
+<b> 11) Difference between puts and printf? </b>
+
+printf() prints string as well as variables. 
+
+puts prints a string alone.
+
+## In Python Language
+
