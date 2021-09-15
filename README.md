@@ -109,3 +109,64 @@ An array is a collection of elements of similar data type whereas the pointer is
 
 . Lesser memory is needed for a union variable than a structure variable of the same type
 
+<b> 1) What are the different types of modifiers in C? </b>
+
+signed, unsigned, long, short, long long
+
+<b> 2) What is a static variable? </b>
+
+A static local variable retains its value between a function call and it's default value is 0.
+
+<b> 3) What are lvalue and rvalue? </b>
+
+rvalue holds the expression of an assignment operator. lvalue holds variable.
+
+<b> 4) What is typecasting? </b>
+
+Typecasting is a way to convert a variable/constant from one type to another type.
+
+<b> 5) What are the stages in C compilation? </b>
+
+Preprocessing, compilation, assembling and linking.
+
+<b> 6) Difference between the header file and library file. </b>
+
+library file holds function body whereas header file holds the prototype.
+
+<b> 7) What is a ternary operator? </b>
+
+Used instead of if else condition. (?, :)
+
+<b> 8) Difference between memcpy() and strcpy() functions in C. </b>
+
+memcpy() function is used to copy a specified number of bytes from one memory to another.
+
+Whereas, strcpy() function is used to copy the contents of one string into another string.
+
+<b> 9) What is const pointer in C? </b>
+
+Once const pointer is made to point one variable, we can’t change this pointer to point to any other variable.
+
+<b> 10) What is the difference between variable declaration and variable definition in C? </b>
+
+Variable declaration tells the compiler about data type and size of the variable. Whereas, variable definition allocates memory to the variable
+
+<b> 11) What is enum in C? </b>
+
+Enumeration is a data type that consists of named integer constants as a list.
+
+<b> 12) Is there a difference between class and struct? </b>
+
+The only difference between a class and struct are the access modifiers. Struct members are
+
+public by default; class members are private. It is good practice to use classes when you need an
+
+object that has methods and structs when you have a simple data object.
+
+<b> 13) What is a main() and difference b/w void main() and int main()? </b>
+
+main() is an entry point. 
+
+void main() returns nothing. No need of return statement.
+
+int main() needs a return statement.
