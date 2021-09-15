@@ -350,6 +350,38 @@ type() is a built-in method which either returns the type of the object or retur
 <b>Set:</b> An unordered collection of unique objects enclosed in curly brackets
 
 <b>Frozen set:</b> They are like a set but immutable, which means we cannot modify their values once they are created.
+
+<b> 26) Explain Inheritance in Python with an example? </b>
+
+Python have the ability to inherit the properties of another class.
+
+The class that is being inherited is called a superclass or the parent class, and the class that inherits the superclass is called a derived or child class. 
+
+<b> 27) What is scope resolution? </b>
+
+Each and every object of python functions within its respective scope.
+
+<b> 28) What are functions in Python? </b>
+
+A function is a block of code which is executed only when a call is made to the function.
+
+<b> 29) What are the common built-in data types in Python? </b>
+
+<b> Immutable data types:</b>
+
+Number
+String
+Tuple
+
+<b>Mutable data types:</b>
+
+List
+Dictionary
+Set
+
+<b> 30. Array? </b>
+
+Consists of only those elements having the same data type.
   
 ## Data Science 
 
