@@ -558,3 +558,42 @@ A stopband is a band of frequencies, between specified limits, in which a circui
 Maximum value of power  that can be dissipated without failure.
 
 Pd= V f x I f.
+
+<b>What is rheostat.</b>
+
+Rheostat is a type of variable resistor which is used to control the flow of electric current by manually increasing or decreasing its resistance.
+
+<b>What is demodulation?</b>
+
+Demodulation is the act of removing the modulation from an analog signal to get the original baseband signal back. Demodulating is necessary because the receiver system receives a modulated signal with specific characteristics and it needs to turn it to base-band.
+
+<b>Explain radio environment in building.</b>
+
+Building penetration: Building penetration depends on the material used for construction and architecture used. This varies building to building and is based on building construction.
+
+Building Height Effect: The signal strength is always higher at top floor and generally floor gain height is about 2.7dB/floor which is not dependent on building construction.
+
+Building Floor Reception: The signal isolation between floors in a multi floor building is on the average about 20dB. Within a floor of 150 * 150 feet, the propagation loss due to interior walls, depending on the wall materials is about 20 dB between the strong and the weak areas.
+
+<b>What is resistor?</b>
+
+A resistor is a two-terminal electronic component that opposes an electric current by producing a voltage drop between its terminals in proportion to the current, that is, in accordance with Ohm's law:
+V = IR.
+
+<b> What is inductor? </b>
+
+An inductor is a passive electrical device employed in electrical circuits for its property of inductance. An inductor can take many forms.
+
+<b> What is conductor? </b>
+
+A substance, body, or device that readily conducts heat, electricity, sound, etc. Copper is a good conductor of electricity.
+
+<b>What is a semi conductor?</b>
+
+A semiconductor is a solid material that has electrical conductivity in between that of a conductor and that of an insulator(An Insulator is a material that resists the flow of electric current. It is an object intended to support or separate electrical conductors without passing current through itself); it can vary over that wide range either permanently or dynamically.
+
+<b>Name the modulation techniques.</b>
+
+For Analog modulation--AM, SSB, FM, PM and SM
+
+Digital modulation--OOK, FSK, ASK, Psk, QAM, MSK, CPM, PPM, TCM, OFDM
