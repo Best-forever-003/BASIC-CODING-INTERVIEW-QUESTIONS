@@ -552,3 +552,9 @@ Passband is the range of frequencies or wavelengths that can pass through a filt
 <b> What is stop band? </b>
 
 A stopband is a band of frequencies, between specified limits, in which a circuit, such as a filter or telephone circuit, does not let signals through, or the attenuation is above the required stopband attenuation level.
+
+<b> Define Power Rating? </b>
+
+Maximum value of power  that can be dissipated without failure.
+
+Pd= V f x I f.
