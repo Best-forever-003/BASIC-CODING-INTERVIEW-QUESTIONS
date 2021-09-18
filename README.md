@@ -597,3 +597,128 @@ A semiconductor is a solid material that has electrical conductivity in between 
 For Analog modulation--AM, SSB, FM, PM and SM
 
 Digital modulation--OOK, FSK, ASK, Psk, QAM, MSK, CPM, PPM, TCM, OFDM
+
+<b>Explain AM and FM.</b>
+
+AM-Amplitude modulation is a type of modulation where the amplitude of the carrier signal is varied in accordance with the information bearing signal.
+FM-Frequency modulation is a type of modulation where the frequency of the carrier signal is varied in accordance with the information bearing signal.
+
+<b>  Explain RF? </b>
+
+Radio frequency (RF) is a frequency or rate of oscillation within the range of about 3 Hz to 300 GHz. This range corresponds to frequency of alternating current electrical signals used to produce and detect radio waves. Since most of this range is beyond the vibration rate that most mechanical systems can respond to, RF usually refers to oscillations in electrical circuits or electromagnetic radiation.
+
+<b> What is modulation? And where it is utilized? </b>
+
+Modulation is the process of varying some characteristic of a periodic wave with an external signals.
+
+Modulation is utilized to send an information bearing signal over long distances.
+
+<b>Where do we use AM and FM?</b>
+
+AM is used for video signals for example TV. Ranges from 535 to 1705 kHz.
+
+FM is used for audio signals for example Radio. Ranges from 88 to 108 MHz.
+
+<b> What is a base station? </b>
+
+Base station is a radio receiver/transmitter that serves as the hub of the local wireless network, and may also be the gateway between a wired network and the wireless network.
+
+<b> What are the parts of Network Management System (NMS)?</b>
+
+OMC: Operation and maintenance center – Computerized monitoring center.
+NMC: Network Management Center – Centralized control of a network is done here.
+OSS: Operation and support system – Used for supporting activities performed in an OMC and/or NMC.
+
+<b> How many satellites are required to cover the earth? </b>
+
+3 satellites are required to cover the entire earth, which is placed at 120 degree to each other. The life span of the satellite is about 15 years.
+
+<b> What are GPRS services? </b>
+
+GPRS services are defined to fall in one of the two categories:
+
+PTP (Point to point)
+PTM (Point to Multi point)
+Some of the GPRS services are not likely to be provided by network operators during early deployment of GPRS due in part to the phased development of standard. Market demand is another factor affecting the decision of operators regarding which services to offer first.
+
+<b> What is a repeater?</b>
+
+A repeater is an electronic device that receives a signal and retransmits it at a higher level and/or higher power, or onto the other side of an obstruction, so that the signal can cover longer distances without degradation.
+
+<b> What is an Amplifier? </b>
+
+An electronic device or electrical circuit that is used to boost (amplify) the power, voltage or current of an applied signal.
+
+<b> Example for negative feedback and positive feedback? </b>
+
+Example for ve feedback is ---Amplifiers And for +ve feedback is Oscillators
+
+<b> How can a Pseudo Random Noise Code be usable? </b>
+
+To be usable for direct sequence spreading, a PN code must meet the following conditions:
+
+Sequence must be built from 2 leveled numbers.
+The codes must have sharp auto correlation peak to enable code synchronization.
+Codes must have a low cross-correlation value, the lower it is, more are the number of users which can be allowed in the system.
+The codes should be “balanced” i.e. the difference between ones and zeros in code may only be one.
+
+<b> What is Oscillator? </b>
+
+An oscillator is a circuit that creates a waveform output from a direct current input. The two main types of oscillator are harmonic and relaxation. The harmonic oscillators have smooth curved waveforms, while relaxation oscillators have waveforms with sharp changes.
+
+<b> What is an Integrated Circuit?  </b>
+
+An integrated circuit (IC), also called a microchip, is an electronic circuit etched onto a silicon chip. Their main advantages are low cost, low power, high performance, and very small size.
+
+<b> What is handover and what are its types? </b>
+
+Handover in mobile communication refers to the process of transferring a call from one network cell to another without breaking the call. There are two types of handover which are as follows:
+
+Hard Handoff: hard handoff is the process in which the cell connection is disconnected from the previous cell before it is made with the new one.
+Soft Handoff: It is the process in which a new connection is established first before disconnecting the old one. It is thus more efficient and smart.
+
+
+<b> What is crosstalk? </b>
+
+Crosstalk is a form of interference caused by signals in nearby conductors. The most common example is hearing an unwanted conversation on the telephone. Crosstalk can also occur in radios, televisions, networking equipment, and even electric guitars.
+
+
+<b> What is op-amp? </b>
+
+ An operational amplifier, often called an op-amp , is a DC-coupled high-gain electronic voltage amplifier with differential inputs[1] and, usually, a single output. Typically the output of the op-amp is controlled either by negative feedback, which largely determines the magnitude of its output voltage gain, or by positive feedback, which facilitates regenerative gain and oscillation.
+ 
+ 
+ <b> Explain Bluetooth.</b>
+ 
+ Bluetooth is designed to be a personal area network, where participating entities are mobile and require sporadic communication with others. It is Omni directional i.e. it does not have line of sight limitation like infra red does. Ericsson started the work on Bluetooth and named it after the Danish king Harold Bluetooth. Bluetooth operates in the 2.4 GHz area of spectrum and provides a range of 10 meters. It offers transfer speeds of around 720 Kbps.
+ 
+ 
+ <b> What is a feedback? </b>
+ 
+ Feedback is a process whereby some proportion of the output signal of a system is passed (fed back) to the input. This is often used to control the dynamic behaviour of the system.
+ 
+ <b> What is CDMA, TDMA, FDMA? </b>
+ 
+ Code division multiple access (CDMA) is a channel access method utilized by various radio communication technologies. CDMA employs spread-spectrum technology and a special coding scheme (where each transmitter is assigned a code) to allow multiple users to be multiplexed over the same physical channel. By contrast, time division multiple access (TDMA) divides access by time, while frequency-division multiple access (FDMA) divides it by frequency.
+An analogy to the problem of multiple access is a room (channel) in which people wish to communicate with each other. To avoid confusion, people could take turns speaking (time division), speak at different pitches (frequency division), or speak in different directions (spatial division). In CDMA, they would speak different languages. People speaking the same language can understand each other, but not other people. Similarly, in radio CDMA, each group of users is given a shared code. Many codes occupy the same channel, but only users associated with a particular code can understand each other.
+
+
+<b> Explain different types of feedback </b>
+
+Types of feedback:
+Negative feedback: This tends to reduce output (but in amplifiers, stabilizes and linearizes operation). Negative feedback feeds part of a system's output, inverted, into the system's input; generally with the result that fluctuations are attenuated.
+Positive feedback: This tends to increase output. Positive feedback, sometimes referred to as "cumulative causation", is a feedback loop system in which the system responds to perturbation (A perturbation means a system, is an alteration of function, induced by external or internal mechanisms) in the same direction as the perturbation. In contrast, a system that responds to the perturbation in the opposite direction is called a negative feedback system.
+Bipolar feedback: which can either increase or decrease output.
+
+<b> What are the main divisions of power system? </b>
+
+The generating system,transmission system,and distribution system
+
+
+<b> What is Instrumentation Amplifier (IA) and what are all the advantages? </b>
+
+An instrumentation amplifier is a differential op-amp circuit providing high input impedances with ease of gain adjustment by varying a single resistor.
+
+<b> Explain the concept of frequency re-use. </b>
+
+The whole of the geographical area is divided into hexagonal shape geometrical area called cell and each cell having its own transceiver. Each BTS (cell site) allocated different band of frequency or different channel. Each BTS antenna is designed in such a way that i cover cell area in which it is placed with frequency allotted without interfering other sell signal.
