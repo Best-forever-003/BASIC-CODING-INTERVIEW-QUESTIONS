@@ -485,3 +485,70 @@ If you split the data into different packages and make a decision tree in each o
 
 
 NumPy can be used to perform a wide variety of mathematical operations on arrays.
+
+
+# Electronics 
+
+<b>What is Electronics? </b>
+
+The study and use of electrical devices that operate by controlling the flow of electrons or other electrically charged particles.
+
+<b> What is the difference between Electronics and Electrical?</b>
+
+Electronics work on DC and with a voltage range of -48vDC to +48vDC. Examples: Computer, radio, T.V, etc.
+
+Electric devices use line voltage (120vAC, 240vAC, etc...). Examples: are incandescent lights, heaters, fridge, stove, etc...
+
+<b> What is communication? </b>
+
+Communication says as transferring of message from one place to another place called communication.
+
+<b> Different types of communications? Explain. </b>
+
+Analog and digital communication.
+
+Analog is the process of taking an audio or video signal (the human voice) and translating it into electronic pulses. 
+
+Digital on the other hand is breaking the signal into a binary format where the audio or video data is represented by a series of "1"s and "0"s.
+
+<b>What is diode? </b>
+
+ In electronics, a diode is a two-terminal device. 
+ 
+ Diodes have two active electrodes between which the signal of interest may flow, and most are used for their unidirectional current property.
+ 
+<b> What is transistor? </b>
+
+A transistor is a semiconductor device commonly used to amplify or switch electronic signals.
+
+<b> What is sampling? </b>
+
+The process of obtaining a set of samples from a continuous function of time x(t) is referred to as sampling.
+
+<b> State sampling theorem. </b>
+
+It states that, while taking the samples of a continuous signal, it has to be taken care that the sampling rate is equal to or greater than twice the cut off frequency and the minimum sampling rate is known as the Nyquist rate.
+
+<b> What are the advantages of resistors? </b>
+
+Resistors are very small in size.
+
+It is very easy to carry resistors from one place to another place.
+
+Resistors are very cheap.
+
+<b> What is the principle of microwave? </b>
+
+Microwave essentially means very short wave. The main reason why we have to go in for microwave frequency for communication is that lower frequency band are congested and demand for point to point communication continue to increase.
+
+<b> What is cut-off frequency? </b>
+
+The frequency at which the response is -3dB with respect to the maximum response.
+
+<b> What is pass band? </b>
+
+Passband is the range of frequencies or wavelengths that can pass through a filter without being attenuated.
+
+<b> What is stop band? </b>
+
+A stopband is a band of frequencies, between specified limits, in which a circuit, such as a filter or telephone circuit, does not let signals through, or the attenuation is above the required stopband attenuation level.
