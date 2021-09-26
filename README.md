@@ -722,3 +722,108 @@ An instrumentation amplifier is a differential op-amp circuit providing high inp
 <b> Explain the concept of frequency re-use. </b>
 
 The whole of the geographical area is divided into hexagonal shape geometrical area called cell and each cell having its own transceiver. Each BTS (cell site) allocated different band of frequency or different channel. Each BTS antenna is designed in such a way that i cover cell area in which it is placed with frequency allotted without interfering other sell signal.
+
+
+# Basics of C++
+
+C++ is a powerful and all-purpose programming tool developed by Bjarne Stroustrup at Bell Labs. This language is an extension of C and is by far one of the fastest object-oriented programming languages. C++ is super popular because of its high speed and compatibility.
+
+It is widely used in the development of games and servers while some of the real-world applications of C++ are as follows
+
+Operating systems
+
+GUI based applications
+
+Distributed systems
+
+Database software
+
+Banking applications
+
+Advanced computations and graphics
+
+Embedded systems
+
+<b> 1. What are the different data types present in C++? </b>
+
+Primitive Datatype(basic datatype). Example- char, short, int, float, long, double, bool, etc.
+
+Derived datatype. Example- array, pointer, etc.
+
+Enumeration. Example- enum
+
+User-defined data types. Example- structure, class, etc.
+
+
+<b> 2. What is the difference between C and C++?</b>
+
+.C is a procedure orieted programming language whereas C++ is a object oriented programming language. 
+
+. C does not support data hiding but C++ does.
+
+. C is a subset of C++.
+
+. Function and operator overloading are not supported in C compared to C++.
+
+<b> 3. What are class and object in C++? </b>
+
+A class is a user-defined data type that has data members and member functions. An object is an instance of a class.
+
+<b> 4. What is operator overloading? </b>
+
+By operator overloading we can modify the default meaning to the operators like +, -, *, /, <=, etc. 
+ 
+<b> 5. What is polymorphism in C++? </b>
+
+Polymorphism in simple means having many forms. Its behavior is different in different situations. And this occurs when we have multiple classes that are related to each other by inheritance.
+
+The two types of polymorphism in c++ are:
+
+Compile Time Polymorphism
+Runtime Polymorphism
+
+
+<b> 6. Explain constructor in C++ </b>
+
+The constructor is a member function that is executed automatically whenever an object is created.
+
+
+<b> 7. Tell me about virtual function </b>
+
+Virtual function is a member function in the base class that you redefine in a derived class. A virtual function is declared using the virtual keyword.
+
+
+<b> 8. Compare compile time polymorphism and Runtime polymorphism </b>
+
+Compile time is faster and achieved by overloading.
+
+Runtime is slower and achieved by functions along with pointers.
+
+<b> 9. What do you know about friend class and friend function? </b>
+
+A friend class can access private, protected, and public members of other classes in which it is declared as friends.
+
+Like friend class, friend function can also access private, protected, and public members. But, Friend functions are not member functions.
+
+
+<b> 10. What are the C++ access specifiers? </b>
+
+Public: All data members and member functions are accessible outside the class.
+
+Protected: All data members and member functions are accessible inside the class and to the derived class.
+
+Private: All data members and member functions are not accessible outside the class.
+
+<b>11. Define inline function</b>
+
+It eliminates the function calling overhead of a traditional function.
+
+<b>12. What is a reference in C++? </b>
+
+Reference is like a pointer. It is another name of an already existing variable.
+
+<b> 13. What do you mean by abstraction in C++? </b>
+
+Data hiding from users.
+
+<b> 14. 
