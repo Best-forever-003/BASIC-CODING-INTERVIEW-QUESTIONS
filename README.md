@@ -826,4 +826,29 @@ Reference is like a pointer. It is another name of an already existing variable.
 
 Data hiding from users.
 
-<b> 14. 
+<b> 14. Is deconstructor overloading possible? If yes then explain and if no then why?</b>
+
+No destructor overloading is not possible. Destructors take no arguments, so there’s only one way to destroy an object.
+
+<b> 15. What is an abstract class and when do you use it? </b>
+
+A class is called an abstract class whose objects can never be created. Such a class exists as a parent for the derived classes.
+
+<b> 16. What are destructors in C++? </b>
+
+A constructor is automatically called when an object is first created. Similarly when an object is destroyed a function called destructor automatically gets called. 
+
+A destructor has the same name as the constructor (which is the same as the class name) but is preceded by a tilde.
+
+
+<b> 17. What are the static members and static member functions? </b>
+
+A static member function can be called even if no objects of the class exist and the static function are accessed using only the class name and the scope resolution operator ::
+
+<b> 18. What are the advantages of C++? </b>
+
+C++ is a highly portable language means that the software developed using C++ language can run on any platform.
+
+C++ is an object-oriented programming language which includes the concepts such as classes, objects, inheritance, polymorphism, abstraction.
+
+<b> 19
