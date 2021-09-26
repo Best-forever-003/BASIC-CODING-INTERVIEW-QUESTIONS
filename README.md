@@ -382,6 +382,10 @@ Set
 <b> 30. Array? </b>
 
 Consists of only those elements having the same data type.
+
+<b> 31. Does Python have access modifiers? </b>
+
+The access modifiers in Python are used to modify the default scope of variables. There are three types of access modifiers in Python: public, private, and protected.
   
 ## Data Science 
 
@@ -692,6 +696,23 @@ Crosstalk is a form of interference caused by signals in nearby conductors. The 
  
  Bluetooth is designed to be a personal area network, where participating entities are mobile and require sporadic communication with others. It is Omni directional i.e. it does not have line of sight limitation like infra red does. Ericsson started the work on Bluetooth and named it after the Danish king Harold Bluetooth. Bluetooth operates in the 2.4 GHz area of spectrum and provides a range of 10 meters. It offers transfer speeds of around 720 Kbps.
  
+ <b> What is a rectifier? </b>
+ 
+ A rectifier transforms alternating current (AC) into direct current (DC). Its normal function is charging batteries.
+ 
+<b>Types of Rectifier? </b>
+ 
+ Half-wave Rectifier.
+Full Wave Rectifier.
+Bridge Rectifier.
+
+<b> Applications of each rectifier </b>
+
+A half-wave rectifier is used in soldering iron types of circuit.
+
+Full Wave Bridge Rectifier is used to detect the amplitude of the modulating radio signal.
+
+Bridge rectifier circuits are also used to supply steady and polarized Dc voltage in electric welding.
  
  <b> What is a feedback? </b>
  
@@ -851,4 +872,8 @@ C++ is a highly portable language means that the software developed using C++ la
 
 C++ is an object-oriented programming language which includes the concepts such as classes, objects, inheritance, polymorphism, abstraction.
 
-<b> 19
+<b> 19. What is the difference between reference and pointer? </b>
+
+Reference behaves like a temporary variable. It is necessary to initialize the variable at the time of declaration.	
+
+The pointer is a variable which stores the address of a variable. It is not necessary to initialize the variable at the time of declaration.
