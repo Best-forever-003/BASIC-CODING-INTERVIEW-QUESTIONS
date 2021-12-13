@@ -877,3 +877,30 @@ C++ is an object-oriented programming language which includes the concepts such 
 Reference behaves like a temporary variable. It is necessary to initialize the variable at the time of declaration.	
 
 The pointer is a variable which stores the address of a variable. It is not necessary to initialize the variable at the time of declaration.
+
+
+# QUESTIONS I FACED IN INTERVIEWS (TECHNICAL)
+
+<b> 1. Difference between logical and bitwise? </b>
+
+Logical works on boolean expressions alone and returns boolean whereas bitwise works on integers.
+
+
+<b> 2. Dot operator? </b>
+
+(dot) operator is used to access class, structure, or union members.
+
+
+<b> 3. Typecasting </b>
+
+Typecasting is converting one data type into another one. It is also called as data conversion or type conversion in C language.
+
+
+<b> 4. Lists and Tuple </b>
+
+Lists mutable and Tuples are immutable
+
+
+<b> 5. While or do while </b>
+
+While loop checks the condition first and then executes the statement(s), whereas do while loop will execute the statement(s) at least once, then the condition is checked.
